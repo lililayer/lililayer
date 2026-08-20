@@ -1,6 +1,6 @@
 ## README PROFILE
 
-I develop video games, animation software, OSINT tools, and little programs just for fun.
+I develop video games, animation softwares, OSINT tools, and little programs just for fun.
 
 I'm currently working on the Studiopode project, which will enable independents in the motion picture world to create animations efficiently.
 
