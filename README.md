@@ -1,4 +1,4 @@
-<img width="115" height="99" alt="image" src="https://github.com/user-attachments/assets/5971fac5-1c45-4f5e-af24-dfe1627f2f61" />## README PROFILE
+## README PROFILE
 
 I develop video games, animation software, OSINT tools, and little programs just for fun.
 
