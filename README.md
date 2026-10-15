@@ -2,7 +2,7 @@
 
 I develop video games, animation softwares, OSINT tools, and little programs just for fun.
 
-I'm currently working on the Studiopode project, which will enable independents in the motion picture world to create animations efficiently.
+I'm currently working on the Studiopode project, an animation software.
 
 Main languages I use :
 
